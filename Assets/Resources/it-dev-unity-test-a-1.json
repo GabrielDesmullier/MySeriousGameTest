@@ -1,0 +1,37 @@
+{
+	"scores" :
+	[
+		{"name":"Olivier", "score": 21, "dev": true},
+		{"name":"Etienne", "score": 7, "dev": true},
+		{"name":"Julien", "score": 13},
+		{"name":"Quentin", "score": 12, "dev": true},
+		{"name":"Aurore", "score": 32},
+		{"name":"Héloïse", "score": 48},
+		{"name":"Pascaline", "score": 3},
+		{"name":"Henri", "score": 28, "dev": true},
+		{"name":"Martin", "score": 0, "dev": true},
+		{"name":"Frédérique", "score": 25},
+		{"name":"Françoise", "score": 87},
+		{"name":"Aurélie", "score": 39},
+		{"name":"Gabrielle", "score": 65, "dev": true},
+		{"name":"Appoline", "score": 85, "dev": true},
+		{"name":"Antoine G.", "score": 81, "dev": true},
+		{"name":"Antoine M.", "score": 63},
+		{"name":"Jérôme", "score": 26, "dev": true},
+		{"name":"Erika", "score": 98},
+		{"name":"Aline", "score": 61},
+		{"name":"Pauline", "score": 45},
+		{"name":"Wendy", "score": 78},
+		{"name":"Thomas", "score": 46},
+		{"name":"Man-Sour", "score": 29},
+		{"name":"Hélène", "score": 80},
+		{"name":"Guillaume", "score": 43},
+		{"name":"Céline", "score": 42},
+		{"name":"Alice", "score": 86},
+		{"name":"Axel", "score": 38},
+		{"name":"François-Xavier", "score": 49},
+		{"name":"Cynthia", "score": 66, "dev": true},
+		{"name":"Clément", "score": 71},
+		{"name":"Carine", "score": 75}
+	]
+}

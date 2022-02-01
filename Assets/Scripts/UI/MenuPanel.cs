@@ -16,7 +16,7 @@ public class MenuPanel : MonoBehaviour
     public void LoadLeaderbord()
     {
         CloseMenuPanel();
-        StartCoroutine(WaitAndLoadScene("LeaderBord"));
+        StartCoroutine(WaitAndLoadScene("LeaderBoard"));
     }
 
     public void LoadGameLevel()
