@@ -35,7 +35,7 @@ public class LeaderBoardPanel : MonoBehaviour
 
     public void BackToMenu()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("MainMenu");
     }
 
 
